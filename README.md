@@ -29,6 +29,9 @@ A Java-based web scraping application that extracts product information such as 
 ## Output
 Generates a CSV file containing product information.
 
+## Screenshot
+![Output](Screenshots/output.png)
+
 ## Learning Outcome
 - HTML parsing
 - Data extraction techniques
