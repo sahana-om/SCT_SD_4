@@ -18,7 +18,24 @@ A Java-based web scraping application that extracts product information such as 
 - JSoup Library
 - File Handling
 - CSV Writing
+- 
+## Required Library
 
+This project uses the Jsoup library for web scraping.
+
+To run this project:
+
+1. Download Jsoup jar from:
+   https://jsoup.org/download
+
+2. Add the jar file to your project classpath.
+
+3. Compile using:
+   javac -cp jsoup-1.15.3.jar WebScraper.java
+
+4. Run using:
+   java -cp .;jsoup-1.15.3.jar WebScraper
+   
 ## How to Run
 1. Add JSoup dependency to the project.
 2. Compile:
